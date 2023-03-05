@@ -1,0 +1,37 @@
+body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    display: flex;
+    flex-direction: line;
+    justify-content: center;
+    align-items: center;
+  
+  }
+
+canva{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+fieldset {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("serpent.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  
+
+}
